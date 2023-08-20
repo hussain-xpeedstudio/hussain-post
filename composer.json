@@ -1,0 +1,19 @@
+{
+    "name": "hussain/post",
+    "description": "This is a blogging system. From here you can manage your post/blog.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hussain\\Post\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hussain Mahamud",
+            "email": "hussainmahamud.swe@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
